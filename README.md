@@ -1,6 +1,6 @@
 # kafka-adminclient-test
 
-Simple test of Kafka AdminClient (create topic)
+Simple test of Kafka AdminClient (create topic, describe/alter config)
 
 Run with:
 ```
